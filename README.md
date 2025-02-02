@@ -6,11 +6,9 @@ This sales analysis dashboard provides insights into the performance of Ferns & 
 ![Ferns   Petals Sales Analysis Dashboard](https://github.com/user-attachments/assets/7d576456-ab31-4649-8ce5-000427a08eba)
 
 ## Key Insights & Findings
-• Revenue Trends: Highest sales during Anniversary, Raksha Bandhan, and Valentine’s Day; peak months include February, August, and December.
-• Top Categories: Colors, Soft Toys, and Sweets generate the most revenue.
-• Customer Behavior: Most orders placed between 6 AM - 2 PM; average customer spend is $41.
-• Regional Performance: Dibrugarh and Imphal lead in total orders.
-• Operational Efficiency: 5.53-day order-to-delivery time, with scope for optimization.
+The analysis revealed that **Anniversary, Raksha Bandhan, and Valentine’s Day** drive the highest revenue, with **February, August, and December** being the peak months for sales. Among product categories, **Colors, Soft Toys, and Sweets** contribute the most to total revenue. Additionally, customer purchasing behavior indicates that most orders are placed between **6 AM and 2 PM**, with an average customer spending **$41 per order**.
+
+From a regional perspective, **Dibrugarh and Imphal** emerged as the top-performing cities in terms of order volume. The **order-to-delivery time averages 5.53 days**, highlighting potential areas for logistical optimization. These insights help in understanding **demand patterns, improving inventory management, and refining marketing strategies** for seasonal and high-revenue occasions
 
 ## Actionable Recommendations
 • Leverage Peak Occasions & Seasons
