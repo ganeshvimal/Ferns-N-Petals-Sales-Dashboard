@@ -11,17 +11,7 @@ The analysis revealed that **Anniversary, Raksha Bandhan, and Valentine’s Day*
 From a regional perspective, **Dibrugarh and Imphal** emerged as the top-performing cities in terms of order volume. The **order-to-delivery time averages 5.53 days**, highlighting potential areas for logistical optimization. These insights help in understanding **demand patterns, improving inventory management, and refining marketing strategies** for seasonal and high-revenue occasions
 
 ## Actionable Recommendations
-• Leverage Peak Occasions & Seasons
-• Increase promotions and discounts around Anniversary, Valentine’s Day, and Raksha Bandhan to maximize sales.
-• Target February, August, and December with special campaigns.
-• Optimize Product Offerings
-• Given the success of Colors, Soft Toys, and Sweets, consider bundling these items for special occasion-based gift sets.
-• Expand offerings in the Magnam Set category and similar high-performing product lines.
-• Improve Logistics & Delivery
-• The 5.53-day order-to-delivery time should be optimized for faster turnaround.
-• Consider regional warehouses or expedited delivery options for high-demand cities.
-• Enhance Regional Marketing
-• Given the high purchase activity during morning hours, ensure a seamless mobile checkout process.
+Leverage **Peak Occasions & Seasons** by increasing promotions and discounts around **Anniversary**, **Valentine’s Day**, and **Raksha Bandhan** to maximize sales. Target **February**, **August**, and **December** with special campaigns. Optimize **Product Offerings** by considering bundling items such as **Colors**, **Soft Toys**, and **Sweets** for special occasion-based gift sets. Expand offerings in the **Magnam Set** category and similar high-performing product lines. Improve **Logistics & Delivery** by optimizing the **5.53-day order-to-delivery time** for faster turnaround and considering regional warehouses or expedited delivery options for high-demand cities. Enhance **Regional Marketing** by ensuring a seamless mobile checkout process, especially given the high purchase activity during **morning hours**.
 
 ## Conclusion
 The Ferns & Petals Sales Dashboard provides critical insights into customer behavior, seasonal sales trends, and product performance. By implementing targeted marketing strategies, optimizing logistics, and enhancing the product portfolio, the company can further drive revenue growth and improve customer satisfaction.
