@@ -1,4 +1,4 @@
-# Executive Summary: Ferns & Petals Sales Analysis
+# Executive Summary
 ## Overview
 This sales analysis dashboard provides insights into the performance of Ferns & Petals, a gifting and floral business. The dashboard covers key performance indicators (KPIs), revenue trends, and customer behavior based on various occasions, product categories, cities, and order timings.The entire ETL (Extract, Transform, Load) process was executed using Power Query Editor, followed by data modeling with Power Pivot. The analysis was conducted using Pivot Tables, and an interactive dashboard was created with Slicers and Timelines to visualize key business insights effectively.
 
